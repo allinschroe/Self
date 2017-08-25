@@ -1,0 +1,2 @@
+Shadowrockets配置文件
+proxyonly：只代理，不reject广告，其他direct
