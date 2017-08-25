@@ -1,10 +1,7 @@
-Shadowrockets配置文件
+#爱国上网解决方案
+    
+    appstore各类翻墙app已全部下线，这些app在已下载项目一样不可下载。<br>
 
-#proxyonly：https://raw.githubusercontent.com/abingx/Self/master/Shadowrockets/proxyonly.conf
+##方案一：
 
-只代理，不reject广告，其他direct。有点速度规则少，处理快，但不在规则的被强网站上不去，需自行添加
-#
-#
-#main：https://raw.githubusercontent.com/abingx/Self/master/Shadowrockets/main.conf
-
-国内直连，主要国外代理，reject广告（经常需更新），规则较多，个人感觉拖慢速度
+中区账号
